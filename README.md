@@ -12,10 +12,12 @@ Une deuxième ligne
 
 _Ils nous manquent du café_  
 
-Petit test Axel %D 
+Petit test Axel %D
 
-~~Ce qu'on aime nous, c'est le chocolat! vive le chocolat!~~ 
+~~Ce qu'on aime nous, c'est le chocolat! vive le chocolat!~~
 
 * Perso je préfère le pain.
 
 on vdd est surement ezaaii
+
+Waaaaazaaaaa
