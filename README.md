@@ -25,3 +25,6 @@ Waaaaazaaaaa
 **I am bluedabebidabeda... T'as la musique en tête c'est bon ?**
 
 bouhaaaaaaaaaaaaaaa
+
+[*Lorem* _ipsum_ **dolor** __sit__ amet](http://lipsum.net)
+
