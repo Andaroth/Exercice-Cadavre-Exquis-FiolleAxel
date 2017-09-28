@@ -18,7 +18,7 @@ Petit test Axel %D
 
 * Perso je préfère le pain.
 
-on vdd est surement ezaaii
+Mon vdd est surement ezaaii (Avec M pour axel :D)
 
 Waaaaazaaaaa
 
