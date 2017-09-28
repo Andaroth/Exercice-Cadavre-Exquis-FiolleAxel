@@ -6,23 +6,13 @@ Ceci est mon Readme.MD ! Il n'y a pas grand chose à voir mais cet exercice me p
 __Sinon__ c'est bien dommage. **Or ask me, maybe**
 
 
-<<<<<<< HEAD
 Quelques changement ^^
-
 
 Une deuxième ligne
 
-
-etc....
-=======
-Quelques changement ^
-
 _Ils nous manquent du café_  
 
+Petit test Axel %D 
 
-<<<<<<< HEAD
-Petit test Axel %D 
-=======
-Petit test Axel %D 
->>>>>>> a5064d457269be8d29ac85e637545bcaa878de16
->>>>>>> parent of 8808dce... gateaux
+~~Ce qu'on aime nous, c'est le chocolat! vive le chocolat!~~ 
+
