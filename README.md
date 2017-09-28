@@ -6,7 +6,7 @@ Ceci est mon Readme.MD ! Il n'y a pas grand chose à voir mais cet exercice me p
 __Sinon__ c'est bien dommage. **Or ask me, maybe**
 
 
-Quelques changement ^
+Quelques changement ^^
 
 
 Une deuxième ligne
