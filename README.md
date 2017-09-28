@@ -1,6 +1,6 @@
 # Le nom de mon histoire
 
-__Exercice BeCode, coucou o/ __
+_Exercice BeCode, coucou o/ _
 
 ## Votre attention !
 
@@ -33,3 +33,6 @@ Waaaaazaaaaa
 **I am bluedabebidabeda... T'as la musique en tête c'est bon ?**
 
 bouhaaaaaaaaaaaaaaa
+
+[*Lorem* _ipsum_ **dolor** __sit__ amet](http://lipsum.net)
+
