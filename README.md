@@ -14,3 +14,6 @@ _Ils nous manquent du café_
 mmmm des gateaux !!!
 
 Petit test Axel %D
+
+~~Ce qu'on aime nous, c'est le chocolat! vive le chocolat!~~
+ 
