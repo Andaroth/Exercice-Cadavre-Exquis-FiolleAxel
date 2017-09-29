@@ -1,18 +1,10 @@
 # Le nom de mon histoire
-
-_Exercice BeCode, coucou o/ _
-
-## Votre attention !
+__Exercice BeCode, coucou o/ __
 
 Ceci est mon Readme.MD ! Il n'y a pas grand chose à voir mais cet exercice me permet de garder la main. ;)
-
 ```J'espère que mes chers... collègues s'en sortent ! :)```
+__Sinon__ c'est bien dommage. **Or ask me, maybe**
 
-__Sinon__ c'est bien dommage. 
-
-**Or ask me, maybe**
-
-### faites une branche individuelle pour vos commits merci <3
 
 Quelques changement ^^
 
@@ -26,13 +18,12 @@ Petit test Axel %D
 
 * Perso je préfère le pain.
 
-Mon vdd est surement ezaaii (Avec M pour axel :D)
+on vdd est surement ezaaii
 
 Waaaaazaaaaa
 
 **I am bluedabebidabeda... T'as la musique en tête c'est bon ?**
 
-bouhaaaaaaaaaaaaaaa
-
-[*Lorem* _ipsum_ **dolor** __sit__ amet](http://lipsum.net)
-
+J'aime le pain.
+Au gout de pain.
+Avec une tartine de pain.
