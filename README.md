@@ -28,4 +28,6 @@ J'aime le pain.
 Au gout de pain.
 Avec une tartine de pain.
 
-Putain de Poule 
+Putain de Poule
+
+Je suis le génie du Poule
