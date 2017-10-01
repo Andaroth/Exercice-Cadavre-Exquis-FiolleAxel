@@ -10,31 +10,34 @@ Quelques changement ^^
 
 Une deuxième ligne
 
-_Ils nous manquent du café_  
+_Ils nous manquent du Godlen Power_  
 
-Petit test Axel %D
+Petit test Axel Red  %D
 
 ~~Ce qu'on aime nous, c'est le chocolat! vive le chocolat!~~
 
-* Perso je préfère le pain.
+* Perso je préfère la pine.
 
 on vdd est surement ezaaii
 
-Waaaaazaaaaa
+Waaaaazaaaaa 
 
-**I am bluedabebidabeda... T'as la musique en tête c'est bon ?**
+**I am bluedabebidabeda... T'as la musique en tête c'est bon ?** => ouais, enfoiré! 
 
 J'aime le pain.
 Au gout de pain.
 Avec une tartine de pain.
+Un peu de pain pour accompagner peut-être? 
 
-Putain de Poule
+Putain de Poulpe
 
-Je suis le génie du Poule
+Je suis le génie du Poulet
 
-En fait c'est trop drole Git
+En fait c'est trop drole les Gitans
 
-Hoho
+Hoho GEANT VERT
 
 J'adore utiliser gîtes
+
+
 
