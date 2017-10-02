@@ -25,3 +25,9 @@ Waaaaazaaaaa
 **I am bluedabebidabeda... T'as la musique en tête c'est bon ?**
 
 bouhaaaaaaaaaaaaaaa
+
+Soudain, un panda débarque avec d'une main un bol de soupe aux nouilles, et de l'autre des baguettes.
+
+Et il crie "Banzaiiiiiiii, on n'a plus de bambous!!! j'annonce que c'est la guerre!!! "
+
+hey, regardez! c'est Po! 
